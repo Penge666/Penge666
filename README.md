@@ -1,22 +1,50 @@
-### Hi there 👋
 
-<!--
-**Penge666/Penge666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### To your personal best~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Hi, 👋  I'm <a href="https://penge666.github.io/ target="_blank"> Penge </a></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Penge666&layout=compact)](https://github.com/Penge666/github-readme-stats)
+<em>Long time no see. <b>How are you?</b> Oh, you are a new friend. <b>Hi, Nice to meet you!</b> :)</em>
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Penge666&show_icons=true&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/Penge666" class="rich-diff-level-one">
+    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=Penge666&title_color=333&text_color=777" alt="JackHCC's Stats" >
+  </a>
+</p>
+<p align="center">
+  <a href="https://penge666.github.io/" target="_blank" alt="Bilibili" title="Bilibili">
+    <img src="https://penge666blog.oss-cn-beijing.aliyuncs.com/img/image-20240519215018501.png" width="28px"/>
+  </a> 
+  &emsp;
+  <a href="https://blog.csdn.net/weixin_42888638?type=lately" target="_blank" alt="CSDN" title="CSDN">
+    <img src="https://penge666blog.oss-cn-beijing.aliyuncs.com/img/image-20240519214900958.png" width="30px"/>
+  </a>
+  &emsp;
+  <a href="https://www.cnblogs.com/pengge666/" target="_blank" alt="Zhihu" title="Zhihu">
+    <img src="https://penge666blog.oss-cn-beijing.aliyuncs.com/img/image-20240519214817916.png" width="28px"/>
+  </a>
+  &emsp;
+  <a href= "https://leetcode.cn/u/peng-ge-3/" target="_blank" alt="Twitter" title="Twitter">
+    <img src="https://penge666blog.oss-cn-beijing.aliyuncs.com/img/image-20240519215206054.png" width="30px"/>
+  </a>
+  &emsp;
+  <a href="https://codeforces.com/profile/Kevin_520" target="_blank" alt="Jianshu" title="Jianshu">
+    <img src="https://penge666blog.oss-cn-beijing.aliyuncs.com/img/image-20240519215438105.png" width="26px"/>
+  </a>
+  <br><br>
+  <strong>⚡ Talk is cheap. Show me the code! </strong>
+  <br><br>
+</p>
+
+---
+
+### Brief Introduction
+
+- 🏫 I’m currently a master student on **Xidian University**, majoring in **Software Engineering**
+- 🌱 My research interests include *Deep learning* *and* *image registration*, *image stitching*, *image compression*
+- 📫 You can get in touch with me by email at penge_666@163.com
+- 👯 Currently working in **ShangXi, China**
+- 🤔 I love **Running, Swimming,Play badminton,Singing ...**
+
 
 
