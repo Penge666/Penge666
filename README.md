@@ -2,7 +2,7 @@
 
 ### To your personal best~
 
-<p>Hi, 👋  I'm <a href="https://penge666.github.io/ target="_blank"> Penge </a></p>
+<p>Hi, 👋  I'm <a href="https://penge666.github.io/" target="_blank"> Penge </a></p>
 
 <em>Long time no see. <b>How are you?</b> Oh, you are a new friend. <b>Hi, Nice to meet you!</b> :)</em>
 
