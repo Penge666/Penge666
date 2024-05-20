@@ -43,7 +43,7 @@
 - 🏫 I’m currently a master student on **Xidian University**, majoring in **Software Engineering**
 - 🌱 My research interests include *Deep learning* *and* *Image registration*, *Image stitching*, *Image compression*
 - 📫 You can get in touch with me by email at penge_666@163.com
-- 👯 Currently working in **ShangXi, China**
+- 👯 Currently working in **ShanXi, China**
 - 🤔 I love **Running, Swimming,Play badminton,Singing ...**
 
 
