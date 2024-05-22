@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Penge666" class="rich-diff-level-one">
-    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=Penge666&title_color=333&text_color=777" alt="JackHCC's Stats" >
+    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=Penge666&title_color=333&text_color=777" alt="Penge666's Stats" >
   </a>
 </p>
 <p align="center">
